@@ -1736,11 +1736,11 @@
 			]
 		},
 		"ERC20/BabyElon.sol": {
-			"keccak256": "0x1d2589904a04cc8574d0265114a8cb6084c072e8b255edfa78b2217fae1a3d82",
+			"keccak256": "0xacda17615a28d0ea85655236bddd707ad372fec4fd9486f32ffde598caa41a2d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3010ff6a822b754f812638f2e77a83423e9d40e06b3a415de863c758191c5537",
-				"dweb:/ipfs/QmTN5p4J9YB6Lj9ZXLhDDqi4rWAVuRSik11mXtnBvd9mbq"
+				"bzz-raw://938f4413b9791a60721736472947c600e3cacf74f1070713ea2a374218f25f3d",
+				"dweb:/ipfs/QmWk7GAdkWEhThaNvNKX5GY72wZn9Bp5NY9t3u7WzigCiJ"
 			]
 		}
 	},
