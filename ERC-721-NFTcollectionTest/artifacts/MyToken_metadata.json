@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.28+commit.7893614a"
+		"version": "0.8.20+commit.a1b79de6"
 	},
 	"language": "Solidity",
 	"output": {
@@ -749,7 +749,7 @@
 		"compilationTarget": {
 			"ERC-721-NFTcollectionTest/Test-Thecollection2.sol": "MyToken"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "shanghai",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

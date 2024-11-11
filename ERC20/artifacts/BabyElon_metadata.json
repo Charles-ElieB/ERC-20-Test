@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.28+commit.7893614a"
+		"version": "0.8.20+commit.a1b79de6"
 	},
 	"language": "Solidity",
 	"output": {
@@ -1467,7 +1467,7 @@
 		"compilationTarget": {
 			"ERC20/BabyElon.sol": "BabyElon"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "shanghai",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
