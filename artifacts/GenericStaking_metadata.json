@@ -277,7 +277,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Contrat_de_Stacking.sol": "GenericStaking"
+			"Contrat_de_Stacking_flattened.sol": "GenericStaking"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -291,36 +291,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"@openzeppelin/contracts/access/Ownable.sol": {
-			"keccak256": "0xff6d0bb2e285473e5311d9d3caacb525ae3538a80758c10649a4d61029b017bb",
+		"Contrat_de_Stacking_flattened.sol": {
+			"keccak256": "0xfca49531cfb18f1009ebab4abef8402c80a4189894a7ed436130f263ecbf96a7",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://8ed324d3920bb545059d66ab97d43e43ee85fd3bd52e03e401f020afb0b120f6",
-				"dweb:/ipfs/QmfEckWLmZkDDcoWrkEvMWhms66xwTLff9DDhegYpvHo1a"
-			]
-		},
-		"@openzeppelin/contracts/token/ERC20/IERC20.sol": {
-			"keccak256": "0xe06a3f08a987af6ad2e1c1e774405d4fe08f1694b67517438b467cecf0da0ef7",
-			"license": "MIT",
-			"urls": [
-				"bzz-raw://df6f0c459663c9858b6cba2cda1d14a7d05a985bed6d2de72bd8e78c25ee79db",
-				"dweb:/ipfs/QmeTTxZ7qVk9rjEv2R4CpCwdf8UMCcRqDNMvzNxHc3Fnn9"
-			]
-		},
-		"@openzeppelin/contracts/utils/Context.sol": {
-			"keccak256": "0x493033a8d1b176a037b2cc6a04dad01a5c157722049bbecf632ca876224dd4b2",
-			"license": "MIT",
-			"urls": [
-				"bzz-raw://6a708e8a5bdb1011c2c381c9a5cfd8a9a956d7d0a9dc1bd8bcdaf52f76ef2f12",
-				"dweb:/ipfs/Qmax9WHBnVsZP46ZxEMNRQpLQnrdE4dK8LehML1Py8FowF"
-			]
-		},
-		"Contrat_de_Stacking.sol": {
-			"keccak256": "0xdc5ca9ce189bdffc98efce227e0f170a237baee0fe600264da915666d50dd662",
-			"license": "MIT",
-			"urls": [
-				"bzz-raw://4ed4145426b7127bb5e50e7a223579a5cfdf9ef1ef5f39a6313d8300b15a3de7",
-				"dweb:/ipfs/QmRoaw3PKYB6A3Bg1JgjfbmPg3CntvUgrr8Decct9hxega"
+				"bzz-raw://2e8a283fe6529fe7e7a28e9ff32282747f6cdbfcedb9875a84ec84285ab5cbab",
+				"dweb:/ipfs/QmSvk2znsszZfqcHMWKY41sbucoyjbLzTeLK56MW2qbm1n"
 			]
 		}
 	},
