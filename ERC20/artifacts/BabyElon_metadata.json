@@ -1467,7 +1467,7 @@
 		"compilationTarget": {
 			"ERC20/BabyElon.sol": "BabyElon"
 		},
-		"evmVersion": "shanghai",
+		"evmVersion": "paris",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
