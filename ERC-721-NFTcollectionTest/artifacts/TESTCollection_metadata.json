@@ -691,7 +691,7 @@
 		"compilationTarget": {
 			"ERC-721-NFTcollectionTest/Newtestcollection.sol": "TESTCollection"
 		},
-		"evmVersion": "shanghai",
+		"evmVersion": "paris",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
